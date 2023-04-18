@@ -41,7 +41,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You Can Visit Here To TechAdda [Create React App documentation] (https://tech-adda.vercel.app/).
+You Can Visit Here To TechAdda https://tech-adda.vercel.app/
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
